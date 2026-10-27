@@ -1,4 +1,4 @@
-# Title: [sql-injection] in [Student-Registration-System] <= [v1.0]
+# Title: sql-injection in Student-Registration-System <= v1.0
 
 **BUG Author:** Sudais Nazir
 
