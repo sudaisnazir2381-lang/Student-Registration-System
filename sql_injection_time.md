@@ -117,8 +117,7 @@ Additional hardening:
 
 | Date | Event |
 |---|---|
-| **[FILL]** | Vulnerability discovered |
-| **[FILL]** | Reported to the maintainer / CVE requested |
+| **VulDB** | Reported to the maintainer / CVE requested |
 | August 2026 | CVE-2026-18896 published |
 
 ## References
