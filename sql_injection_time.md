@@ -32,7 +32,6 @@ The `opwd` (old password) parameter in `student/changepass.php` is concatenated 
 User input from `$_POST` is placed straight into the query string, so anything the user types becomes part of the SQL statement. The vulnerable pattern looks like this:
 
 ```php
-// student/changepass.php (replace with the exact lines from the file)
 $oldpass = $_POST['opwd'];
 $query = "SELECT * FROM student WHERE spassword='$oldpass' AND ...";
 ```
